@@ -37,6 +37,13 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "015308f5-4bab-45b5-ae62-10657ba0e0bc"
+      }
+    },
+    "owner": "jaswindersingh1903"
   }
 }
